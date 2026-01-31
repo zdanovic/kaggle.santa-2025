@@ -1,0 +1,14 @@
+{
+  "id": "zdanovic/santa-2025-refine-small-n",
+  "title": "Santa 2025 Refine Small-N",
+  "code_file": "run_refine_smalln.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "zdanovic/santa-2025-solver",
+    "zdanovic/santa-2025-bbox3-baseline"
+  ]
+}

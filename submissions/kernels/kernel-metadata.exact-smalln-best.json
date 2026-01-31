@@ -1,0 +1,13 @@
+{
+  "id": "zdanovic/santa-2025-exact-smalln-best",
+  "title": "Santa 2025 Exact Small-n Best",
+  "code_file": "run_exact_smalln_best.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "zdanovic/santa-2025-solver"
+  ]
+}

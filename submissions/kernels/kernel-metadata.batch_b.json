@@ -1,0 +1,13 @@
+{
+  "id": "zdanovic/santa-2025-batch-b",
+  "title": "Santa 2025 batch_b",
+  "code_file": "run_batch_b.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "zdanovic/santa-2025-solver"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zdanovic/santa-2025-bbox3-aggressive",
+  "title": "Santa 2025 BBox3 Aggressive",
+  "code_file": "run_bbox3_aggressive.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "saspav/santa-2025-csv",
+    "zdanovic/santa-2025-bbox3-baseline",
+    "zdanovic/santa-2025-solver"
+  ]
+}

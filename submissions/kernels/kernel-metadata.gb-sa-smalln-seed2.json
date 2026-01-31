@@ -1,0 +1,13 @@
+{
+  "id": "zdanovic/santa-2025-gb-sa-smalln-seed2",
+  "title": "Santa 2025 GB+SA SmallN Seed2",
+  "code_file": "run_gb_sa_smalln_seed2.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "zdanovic/santa-2025-solver"
+  ]
+}

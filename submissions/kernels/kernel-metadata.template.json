@@ -1,0 +1,13 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/santa-2025-solver",
+  "title": "Santa 2025 Solver",
+  "code_file": "run_all.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "YOUR_KAGGLE_USERNAME/santa-2025-solver"
+  ]
+}

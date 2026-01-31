@@ -1,0 +1,13 @@
+{
+  "id": "zdanovic/santa-2025-row-pattern-opt",
+  "title": "Santa 2025 Row Pattern Opt",
+  "code_file": "run_row_pattern_opt.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "zdanovic/santa-2025-solver"
+  ]
+}

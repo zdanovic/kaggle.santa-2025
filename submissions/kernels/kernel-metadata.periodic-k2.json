@@ -1,0 +1,13 @@
+{
+  "id": "zdanovic/santa-2025-periodic-k2-sweep",
+  "title": "Santa 2025 Periodic K2 Sweep",
+  "code_file": "run_all_periodic_k2_v2.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "zdanovic/santa-2025-solver"
+  ]
+}
