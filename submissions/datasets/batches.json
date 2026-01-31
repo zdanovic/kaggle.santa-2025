@@ -1,0 +1,7 @@
+{
+  "config": "configs/kaggle_periodic_k2_v2.yaml",
+  "batches": {
+    "batch_a": [6101, 6201, 6301, 6401],
+    "batch_b": [6501, 6601, 6701, 6801]
+  }
+}
