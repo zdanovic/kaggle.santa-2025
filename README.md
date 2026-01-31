@@ -132,6 +132,3 @@ python3 scripts/optimization/merge_improvements.py
 - [ ] **Exact Solvers**: Integrate `OR-Tools` CP-SAT solver for $N < 30$ to prove optimality.
 - [ ] **Differentiable Physics**: Explore JAX/DiffTaichi for gradient-based packing optimization.
 - [ ] **Distributed Training**: Implement Ray.io support to scale the parallel attack from 3 kernels to 100+ cloud workers.
-
----
-*Created by [Your Name/Handle]*
