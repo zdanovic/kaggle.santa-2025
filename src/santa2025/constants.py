@@ -1,0 +1,6 @@
+COMPETITION_ID = 119106
+COMPETITION_SLUG = "santa-2025"
+FORUM_ID = 9181143
+
+METRIC_NOTEBOOK_REF = "metric/santa-2025-metric"
+GETTING_STARTED_REF = "inversion/santa-2025-getting-started"

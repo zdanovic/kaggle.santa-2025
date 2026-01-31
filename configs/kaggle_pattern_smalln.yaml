@@ -1,0 +1,39 @@
+seed: 7777
+n_max: 200
+output_decimals: 6
+
+baseline:
+  mode: pattern
+  angle_pairs:
+    - [0, 180]
+  offset_ratios: [0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8]
+  dx_min: 0.1
+  dx_max: 2.0
+  dy_min: 0.05
+  dy_max: 2.0
+  grid_size: 4
+  spacing_margin: 1.0
+  rows_pad: 2
+  global_squeeze: true
+  squeeze_factor: 0.985
+  squeeze_steps: 20
+  squeeze_iters: 8
+  selection_mode: square_search
+  search_pad: 6
+  center_steps: 6
+  scale_factor: 1e18
+  bounds: 100.0
+
+refine:
+  enabled: true
+  target_ns: "1-40"
+  steps: 20000
+  restarts: 10
+  move_radius: 0.12
+  angle_radius: 25.0
+  temp_start: 1.0
+  temp_end: 0.02
+  scale_factor: 1e18
+  bounds: 100.0
+  max_workers: 4
+  log_every_steps: 2000

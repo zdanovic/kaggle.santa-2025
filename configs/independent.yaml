@@ -1,0 +1,29 @@
+seed: 4242
+n_max: 200
+output_decimals: 6
+
+baseline:
+  mode: independent
+  init_method: hex
+  init_restarts: 6
+  spacing_scale: 1.08
+  jitter: 0.04
+  squeeze_factor: 0.985
+  squeeze_steps: 30
+  angle_mode: random
+  scale_factor: 1e18
+  bounds: 100.0
+  fallback_attempts: 2
+
+refine:
+  enabled: true
+  top_k: 120
+  steps: 10000
+  restarts: 8
+  move_radius: 0.1
+  angle_radius: 15.0
+  temp_start: 1.0
+  temp_end: 0.03
+  scale_factor: 1e18
+  bounds: 100.0
+  max_workers: 1

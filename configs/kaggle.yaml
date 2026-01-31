@@ -1,0 +1,23 @@
+seed: 2025
+n_max: 200
+output_decimals: 6
+
+baseline:
+  attempts_per_tree: 16
+  start_radius: 20.0
+  step_in: 0.5
+  step_out: 0.05
+  scale_factor: 1e18
+
+refine:
+  enabled: true
+  top_k: 120
+  steps: 20000
+  restarts: 12
+  move_radius: 0.05
+  angle_radius: 8.0
+  temp_start: 1.0
+  temp_end: 0.01
+  scale_factor: 1e18
+  bounds: 100.0
+  max_workers: 8

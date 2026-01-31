@@ -1,0 +1,21 @@
+seed: 7777
+n_max: 200
+output_decimals: 6
+
+baseline:
+  mode: periodic
+  dx: 0.7979024643151544
+  dy: 0.9065650271855625
+  offset: 0.18334338665484975
+  basis:
+    - [0.2600262072437093, 0.1985903287802744, 180.0]
+    - [0.04888925505519682, 0.4059962766498314, 0.0]
+  search_pad: 6
+  center_steps: 6
+  selection_mode: square_search
+  global_squeeze: false
+  scale_factor: 1e18
+  bounds: 100.0
+
+refine:
+  enabled: false

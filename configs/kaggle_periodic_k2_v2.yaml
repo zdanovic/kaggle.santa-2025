@@ -1,0 +1,35 @@
+seed: 7777
+n_max: 200
+output_decimals: 6
+
+baseline:
+  mode: periodic
+  dx: 0.8537871695836736
+  dy: 0.8053523613975958
+  offset: 0.27040080248147946
+  basis:
+    - [0.4735286675902794, 0.1167433359329169, 180.0]
+    - [0.30906101834783717, 0.4288344267711344, 0.0]
+  search_pad: 6
+  center_steps: 8
+  selection_mode: square_search
+  global_squeeze: true
+  squeeze_factor: 0.985
+  squeeze_steps: 20
+  squeeze_iters: 8
+  scale_factor: 1e18
+  bounds: 100.0
+
+refine:
+  enabled: true
+  target_ns: "1-60"
+  steps: 25000
+  restarts: 12
+  move_radius: 0.12
+  angle_radius: 25.0
+  temp_start: 1.0
+  temp_end: 0.02
+  scale_factor: 1e18
+  bounds: 100.0
+  max_workers: 4
+  log_every_steps: 2500

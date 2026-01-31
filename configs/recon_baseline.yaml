@@ -1,0 +1,13 @@
+seed: 1337
+n_max: 200
+output_decimals: 6
+
+baseline:
+  attempts_per_tree: 12
+  start_radius: 20.0
+  step_in: 0.5
+  step_out: 0.05
+  scale_factor: 1e18
+
+refine:
+  enabled: false
