@@ -1,0 +1,743 @@
+{
+  "topics": [
+    {
+      "authorUser": {
+        "displayName": "inversion",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/59561-kg.jpg",
+        "url": "/inversion",
+        "tier": "STAFF",
+        "id": 59561,
+        "progressionOptOut": false
+      },
+      "authorType": "ADMIN",
+      "commentCount": 23,
+      "firstForumMessageId": 3345611,
+      "id": 638484,
+      "isSticky": true,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Vansh Uttam",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/638484#3380478",
+      "lastCommentPostDate": "2025-12-22T13:04:25.563333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-11-23T15:31:06.033257700Z",
+      "title": "IMPORTANT: Santa Etiquette (Please Read)",
+      "topicUrl": "/competitions/santa-2025/discussion/638484",
+      "votes": 70,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "inversion",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/59561-kg.jpg",
+          "url": "/inversion",
+          "userName": "inversion",
+          "tier": "STAFF",
+          "id": 59561,
+          "profileUrl": "/inversion",
+          "performanceTier": "STAFF",
+          "userId": 59561,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "inversion",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/59561-kg.jpg",
+        "url": "/inversion",
+        "tier": "STAFF",
+        "id": 59561,
+        "progressionOptOut": false
+      },
+      "authorType": "ADMIN",
+      "commentCount": 13,
+      "firstForumMessageId": 3313635,
+      "id": 615196,
+      "isSticky": true,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Ladipo Samson",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/615196#3362108",
+      "lastCommentPostDate": "2025-12-04T07:18:07.946666700Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-11-09T15:15:24.211006800Z",
+      "title": "Interactive Editor",
+      "topicUrl": "/competitions/santa-2025/discussion/615196",
+      "votes": 56,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "inversion",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/59561-kg.jpg",
+          "url": "/inversion",
+          "userName": "inversion",
+          "tier": "STAFF",
+          "id": 59561,
+          "profileUrl": "/inversion",
+          "performanceTier": "STAFF",
+          "userId": 59561,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "inversion",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/59561-kg.jpg",
+        "url": "/inversion",
+        "tier": "STAFF",
+        "id": 59561,
+        "progressionOptOut": false
+      },
+      "authorType": "ADMIN",
+      "commentCount": 18,
+      "firstForumMessageId": 3338188,
+      "id": 632348,
+      "isSticky": true,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Serhii Hrynko",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/632348#3353692",
+      "lastCommentPostDate": "2025-11-29T21:53:00.193333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-11-18T23:29:09.252854200Z",
+      "title": "Expected Leaderboard Progression",
+      "topicUrl": "/competitions/santa-2025/discussion/632348",
+      "votes": 19,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "inversion",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/59561-kg.jpg",
+          "url": "/inversion",
+          "userName": "inversion",
+          "tier": "STAFF",
+          "id": 59561,
+          "profileUrl": "/inversion",
+          "performanceTier": "STAFF",
+          "userId": 59561,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Ashley Oldacre",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/8939556-kg.png?t=2025-08-22-16-55-54",
+        "url": "/ashleyoldacre",
+        "tier": "STAFF",
+        "id": 8939556,
+        "progressionOptOut": false
+      },
+      "authorType": "ADMIN",
+      "commentCount": 5,
+      "firstForumMessageId": 3316944,
+      "id": 616533,
+      "isSticky": true,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/616533#3361308",
+      "lastCommentPostDate": "2025-12-03T09:03:01.550Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-11-10T21:55:41.210212900Z",
+      "title": "How to get started + Competition's Official Discord",
+      "topicUrl": "/competitions/santa-2025/discussion/616533",
+      "votes": 13,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "Ashley Oldacre",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/8939556-kg.png?t=2025-08-22-16-55-54",
+          "url": "/ashleyoldacre",
+          "userName": "ashleyoldacre",
+          "tier": "STAFF",
+          "id": 8939556,
+          "profileUrl": "/ashleyoldacre",
+          "performanceTier": "STAFF",
+          "userId": 8939556,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "c-number",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/6624777-kg.jpg",
+        "url": "/cnumber",
+        "tier": "GRANDMASTER",
+        "id": 6624777,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 26,
+      "firstForumMessageId": 3380748,
+      "id": 664189,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Pi",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/664189#3381171",
+      "lastCommentPostDate": "2025-12-23T23:42:28.246666700Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-23T00:38:03.818171300Z",
+      "title": "Kaggle Etiquette: Do not randomly send team merge requests",
+      "topicUrl": "/competitions/santa-2025/discussion/664189",
+      "votes": 26,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "c-number",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/6624777-kg.jpg",
+          "url": "/cnumber",
+          "userName": "cnumber",
+          "tier": "GRANDMASTER",
+          "id": 6624777,
+          "profileUrl": "/cnumber",
+          "performanceTier": "GRANDMASTER",
+          "userId": 6624777,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Tony Li",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/22938014-kg.png?t=2024-10-15-22-21-41",
+        "url": "/tonylica",
+        "tier": "MASTER",
+        "id": 22938014,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 3,
+      "firstForumMessageId": 3380728,
+      "id": 664181,
+      "lastCommenterType": "TOPIC",
+      "lastCommenterName": "Tony Li",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/664181#3381038",
+      "lastCommentPostDate": "2025-12-23T16:10:45.153333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-22T22:32:50.143783300Z",
+      "title": "Why are tree like 44 and 70 so hard to optimize? ",
+      "topicUrl": "/competitions/santa-2025/discussion/664181",
+      "votes": 4,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "Jiwei Liu",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/100236-kg.png?t=2024-07-09-01-29-05",
+          "url": "/jiweiliu",
+          "userName": "jiweiliu",
+          "tier": "GRANDMASTER",
+          "id": 100236,
+          "profileUrl": "/jiweiliu",
+          "performanceTier": "GRANDMASTER",
+          "userId": 100236,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "mistyotter",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/5501323-kg.jpg?t=2025-02-24-07-59-37",
+        "url": "/egortkachenko",
+        "tier": "EXPERT",
+        "id": 5501323,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 18,
+      "firstForumMessageId": 3378139,
+      "id": 663363,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Satya Prakash das",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663363#3380662",
+      "lastCommentPostDate": "2025-12-22T19:24:47.500Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-17T15:33:58.336992100Z",
+      "title": "Is it too late to start here? ",
+      "topicUrl": "/competitions/santa-2025/discussion/663363",
+      "votes": 3
+    },
+    {
+      "authorUser": {
+        "displayName": "Masaki AOTA",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/1655570-kg.JPG",
+        "url": "/masakiaota",
+        "tier": "MASTER",
+        "id": 1655570,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 3,
+      "firstForumMessageId": 3379563,
+      "id": 663748,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Eli Exner",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663748#3379911",
+      "lastCommentPostDate": "2025-12-21T07:04:55.050Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-20T05:57:09.635637100Z",
+      "title": "Post-competition: Let\u2019s build a community-best submission (best-of-per-n)",
+      "topicUrl": "/competitions/santa-2025/discussion/663748",
+      "votes": 7,
+      "teamUpInfo": {
+        "enabled": true,
+        "teamLeader": {
+          "displayName": "Masaki AOTA",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/1655570-kg.JPG",
+          "url": "/masakiaota",
+          "userName": "masakiaota",
+          "tier": "MASTER",
+          "id": 1655570,
+          "profileUrl": "/masakiaota",
+          "performanceTier": "MASTER",
+          "userId": 1655570,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Zejun_",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/26336666-kg.jpg?t=2025-12-20-11-02-15",
+        "url": "/zejunfool",
+        "tier": "CONTRIBUTOR",
+        "id": 26336666,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 7,
+      "firstForumMessageId": 3379690,
+      "id": 663790,
+      "lastCommenterType": "TOPIC",
+      "lastCommenterName": "Zejun_",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663790#3380199",
+      "lastCommentPostDate": "2025-12-21T20:13:21.993333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-20T12:14:57.000432800Z",
+      "title": "Thinking of the entertainment and fairness of Kaggle competition",
+      "topicUrl": "/competitions/santa-2025/discussion/663790",
+      "votes": 3,
+      "teamUpInfo": {
+        "enabled": true,
+        "teamLeader": {
+          "displayName": "Zejun_",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/26336666-kg.jpg?t=2025-12-20-11-02-15",
+          "url": "/zejunfool",
+          "userName": "zejunfool",
+          "tier": "CONTRIBUTOR",
+          "id": 26336666,
+          "profileUrl": "/zejunfool",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 26336666,
+          "progressionOptOut": false
+        },
+        "intro": "Some poor optimization can be made to the final data. However, my current baseline performance is relatively weak. Looking for someone who can provide better simulated annealing or other solutions for N < 60 and, I could offer few A100."
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "skw1990",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+        "url": "/skw1990",
+        "tier": "CONTRIBUTOR",
+        "id": 291162,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 7,
+      "firstForumMessageId": 3379968,
+      "id": 663894,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Smart Manoj",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663894#3380756",
+      "lastCommentPostDate": "2025-12-23T01:08:31.003333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-21T10:15:46.878545700Z",
+      "title": "bbox3 - mystery files in top kernels",
+      "topicUrl": "/competitions/santa-2025/discussion/663894",
+      "votes": 1,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "skw1990",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+          "url": "/skw1990",
+          "userName": "skw1990",
+          "tier": "CONTRIBUTOR",
+          "id": 291162,
+          "profileUrl": "/skw1990",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 291162,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Gabriel Caldi",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/20614875-kg.jpg?t=2024-10-29-23-40-23",
+        "url": "/gabrielcaldi",
+        "tier": "CONTRIBUTOR",
+        "id": 20614875,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 7,
+      "firstForumMessageId": 3378878,
+      "id": 663562,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Eli Exner",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663562#3379917",
+      "lastCommentPostDate": "2025-12-21T07:14:51.586666700Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-18T18:46:55.701526Z",
+      "title": "Breaking the \"Sawtooth\" Barrier in Lattice Packing (N>=58)",
+      "topicUrl": "/competitions/santa-2025/discussion/663562",
+      "votes": 7,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "Gabriel Caldi",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/20614875-kg.jpg?t=2024-10-29-23-40-23",
+          "url": "/gabrielcaldi",
+          "userName": "gabrielcaldi",
+          "tier": "CONTRIBUTOR",
+          "id": 20614875,
+          "profileUrl": "/gabrielcaldi",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 20614875,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Satya Prakash das",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/31448585-kg.jpg?t=2025-12-22-17-56-18",
+        "url": "/litubhailoka",
+        "tier": "CONTRIBUTOR",
+        "id": 31448585,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 4,
+      "firstForumMessageId": 3380621,
+      "id": 664134,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "dragon zhang",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/664134#3380942",
+      "lastCommentPostDate": "2025-12-23T12:25:09.870Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-22T18:46:17.995137Z",
+      "title": "Exact Algorithm is All You Need",
+      "topicUrl": "/competitions/santa-2025/discussion/664134",
+      "votes": -12
+    },
+    {
+      "authorUser": {
+        "displayName": "Smart Manoj",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/5170092-kg.png?t=2025-10-14-11-58-28",
+        "url": "/smartmanoj",
+        "tier": "EXPERT",
+        "id": 5170092,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 3,
+      "firstForumMessageId": 3379956,
+      "id": 663889,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Jiwei Liu",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663889#3380078",
+      "lastCommentPostDate": "2025-12-21T15:52:04.226666700Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-21T09:14:33.456565500Z",
+      "title": "Userscript to hide same scores",
+      "topicUrl": "/competitions/santa-2025/discussion/663889",
+      "votes": 1,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "Smart Manoj",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/5170092-kg.png?t=2025-10-14-11-58-28",
+          "url": "/smartmanoj",
+          "userName": "smartmanoj",
+          "tier": "EXPERT",
+          "id": 5170092,
+          "profileUrl": "/smartmanoj",
+          "performanceTier": "EXPERT",
+          "userId": 5170092,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Zejun_",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/26336666-kg.jpg?t=2025-12-20-11-02-15",
+        "url": "/zejunfool",
+        "tier": "CONTRIBUTOR",
+        "id": 26336666,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "firstForumMessageId": 3380392,
+      "id": 664047,
+      "lastCommenterType": "TOPIC",
+      "lastCommenterName": "Zejun_",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/664047#3380392",
+      "lastCommentPostDate": "2025-12-22T10:31:36.350Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-22T10:31:36.350104200Z",
+      "title": "Some confusion about size of n in optimization.",
+      "topicUrl": "/competitions/santa-2025/discussion/664047",
+      "teamUpInfo": {
+        "enabled": true,
+        "teamLeader": {
+          "displayName": "Zejun_",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/26336666-kg.jpg?t=2025-12-20-11-02-15",
+          "url": "/zejunfool",
+          "userName": "zejunfool",
+          "tier": "CONTRIBUTOR",
+          "id": 26336666,
+          "profileUrl": "/zejunfool",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 26336666,
+          "progressionOptOut": false
+        },
+        "intro": "Some poor optimization can be made to the final data. However, my current baseline performance is relatively weak. Looking for someone who can provide better simulated annealing or other solutions for N < 60 and, I could offer few A100."
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "CoreyJamesLevinson",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/1238844-kg.jpg",
+        "url": "/returnofsputnik",
+        "tier": "GRANDMASTER",
+        "id": 1238844,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 1,
+      "firstForumMessageId": 3379004,
+      "id": 663599,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Paul Jurczak",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663599#3379017",
+      "lastCommentPostDate": "2025-12-19T02:46:39.123333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-19T02:08:30.018714500Z",
+      "title": "Inspiration from the bin packing problem?",
+      "topicUrl": "/competitions/santa-2025/discussion/663599",
+      "votes": 6
+    },
+    {
+      "authorUser": {
+        "displayName": "lucian kucera",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+        "url": "/luciankucera",
+        "tier": "CONTRIBUTOR",
+        "id": 17819385,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 1,
+      "firstForumMessageId": 3379730,
+      "id": 663811,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "KirkDCO",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663811#3380732",
+      "lastCommentPostDate": "2025-12-22T22:56:14.273333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-20T14:51:30.037226400Z",
+      "title": "Was combination of genetic algorithms and simulated anealing already explored?",
+      "topicUrl": "/competitions/santa-2025/discussion/663811",
+      "votes": 1,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "lucian kucera",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+          "url": "/luciankucera",
+          "userName": "luciankucera",
+          "tier": "CONTRIBUTOR",
+          "id": 17819385,
+          "profileUrl": "/luciankucera",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 17819385,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "skw1990",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+        "url": "/skw1990",
+        "tier": "CONTRIBUTOR",
+        "id": 291162,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 3,
+      "firstForumMessageId": 3379678,
+      "id": 663784,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "bert vdb",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663784#3379724",
+      "lastCommentPostDate": "2025-12-20T14:29:22.430Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-20T11:32:20.521327400Z",
+      "title": "Collision and touching",
+      "topicUrl": "/competitions/santa-2025/discussion/663784",
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "skw1990",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+          "url": "/skw1990",
+          "userName": "skw1990",
+          "tier": "CONTRIBUTOR",
+          "id": 291162,
+          "profileUrl": "/skw1990",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 291162,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Yaofei Li",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/18156977-kg.jpg?t=2025-11-13-10-27-20",
+        "url": "/fengjiuge123",
+        "tier": "CONTRIBUTOR",
+        "id": 18156977,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 1,
+      "firstForumMessageId": 3376857,
+      "id": 662868,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "\u5f20\u7855",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/662868#3377970",
+      "lastCommentPostDate": "2025-12-17T08:52:17.076666700Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-15T09:35:05.716200100Z",
+      "title": "I built a local visualization & scoring tool for Santa 2025 Tree Packing \ud83c\udf84\u6211\u505a\u4e86\u4e00\u4e2a Santa 2025 Tree Packing \u7684\u672c\u5730\u53ef\u89c6\u5316\u4e0e\u8bc4\u5206\u5de5\u5177 \ud83c\udf84",
+      "topicUrl": "/competitions/santa-2025/discussion/662868",
+      "votes": 18,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "Yaofei Li",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/18156977-kg.jpg?t=2025-11-13-10-27-20",
+          "url": "/fengjiuge123",
+          "userName": "fengjiuge123",
+          "tier": "CONTRIBUTOR",
+          "id": 18156977,
+          "profileUrl": "/fengjiuge123",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 18156977,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "Lucien de Rubempre",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/480198-kg.png",
+        "url": "/lucienderubempre",
+        "tier": "MASTER",
+        "id": 480198,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 26,
+      "firstForumMessageId": 3362393,
+      "id": 651661,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Paul Jurczak",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/651661#3380254",
+      "lastCommentPostDate": "2025-12-22T04:06:28.530Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-04T16:27:16.176075900Z",
+      "title": "Best strategy for a small number of trees, say up to 50",
+      "topicUrl": "/competitions/santa-2025/discussion/651661",
+      "votes": 16,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "Lucien de Rubempre",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/480198-kg.png",
+          "url": "/lucienderubempre",
+          "userName": "lucienderubempre",
+          "tier": "MASTER",
+          "id": 480198,
+          "profileUrl": "/lucienderubempre",
+          "performanceTier": "MASTER",
+          "userId": 480198,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    },
+    {
+      "authorUser": {
+        "displayName": "lucian kucera",
+        "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+        "url": "/luciankucera",
+        "tier": "CONTRIBUTOR",
+        "id": 17819385,
+        "progressionOptOut": false
+      },
+      "authorType": "TOPIC",
+      "commentCount": 3,
+      "firstForumMessageId": 3379743,
+      "id": 663816,
+      "lastCommenterType": "COMMENT",
+      "lastCommenterName": "Paul Jurczak",
+      "lastCommenterUrl": "/competitions/santa-2025/discussion/663816#3379833",
+      "lastCommentPostDate": "2025-12-20T22:41:39.623333300Z",
+      "parentName": "Santa 2025 - Christmas Tree Packing Challenge",
+      "parentUrl": "/competitions/santa-2025/discussion",
+      "postDate": "2025-12-20T15:49:47.525168400Z",
+      "title": "Exact solvers for small instances?",
+      "topicUrl": "/competitions/santa-2025/discussion/663816",
+      "votes": -1,
+      "teamUpInfo": {
+        "teamLeader": {
+          "displayName": "lucian kucera",
+          "thumbnailUrl": "https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+          "url": "/luciankucera",
+          "userName": "luciankucera",
+          "tier": "CONTRIBUTOR",
+          "id": 17819385,
+          "profileUrl": "/luciankucera",
+          "performanceTier": "CONTRIBUTOR",
+          "userId": 17819385,
+          "progressionOptOut": false
+        },
+        "intro": ""
+      }
+    }
+  ],
+  "count": 80
+}

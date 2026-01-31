@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv_kaggle/
+env/
+venv/
+*.so
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Data (Gitignored)
+data/
+!data/.gitkeep
+public_datasets_extra*/
+kaggle_datasets/
+kaggle_kernels/
+kaggle_output/
+*.csv
+!submissions/datasets/*.csv
+!results/submissions/*.csv
+
+# Results
+results/
+logs/
+logs_small/
+temp_*/
+
+# Kaggle
+.kaggle_stage/
