@@ -44,25 +44,23 @@ graph TD
 To overcome local minima, we deploy a fleet of parallel kernels, each specializing in a specific problem regime.
 
 ```mermaid
-block-beta
-    columns 3
-    block:Group1
-        S1["Small-N Attack (N=1-50)"]
-        space
-        S2["Deep Search (500k iter)"]
+graph TD
+    subgraph SmallN [Small-N Attack]
+        direction TB
+        S1[Range: N=1-50] --> S2[Strategy: Deep Search]
     end
-    block:Group2
-        M1["Large-N Attack (N=50-200)"]
-        space
-        M2["Compression Strategy"]
+
+    subgraph LargeN [Large-N Attack]
+        direction TB
+        L1[Range: N=50-200] --> L2[Strategy: Compression SA]
     end
-    block:Group3
-        G1["Global Ensemble"]
-        space
-        G2["Non-Overlapping Merge"]
+
+    subgraph Ensemble [Global Ensemble]
+        M1[Merging Logic] --> M2[Final Submission]
     end
-    S1 --> G1
-    M1 --> G1
+
+    S2 --> M1
+    L2 --> M1
 ```
 
 - **Small-N Attack**: Deep searches for small, high-leverage groups.
